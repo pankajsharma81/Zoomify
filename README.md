@@ -6,5 +6,3 @@ Features
 --------
 User Authentication, Video/Audio Calls, Screen Sharing, Chat Messaging.
 Secure real-time communication using WebRTC & Socket.io.
-
-<!-- syspYDzUUeZgAm3E -->
